@@ -1,0 +1,5 @@
+baseURL = 'https://niks182.github.io/'
+languageCode = 'en-us'
+title = 'My Get Lucky Site'
+theme = 'ananke'
+
