@@ -1,7 +1,7 @@
 +++
 date = '2024-11-26T21:04:09+01:00'
 draft = true
-title = 'My First Post'
+title = 'Starting business...'
 +++
 ## Introduction
 
