@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book of the Day</title>
+      <title>Pixyll on Pixyll </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://niks182.github.io/</link>
-    <description>Recent content on Book of the Day</description>
-    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 21:04:09 +0100</lastBuildDate>
-    <atom:link href="https://niks182.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Tue, 26 Nov 2024 21:04:09 CET</updated>
+    
     <item>
       <title>Starting my very first web-business...</title>
       <link>https://niks182.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 26 Nov 2024 21:04:09 +0100</pubDate>
+      <pubDate>Tue, 26 Nov 2024 21:04:09 CET</pubDate>
+      
       <guid>https://niks182.github.io/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text and this is normal text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text and this is normal text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
+    
   </channel>
 </rss>
+
