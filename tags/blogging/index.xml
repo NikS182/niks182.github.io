@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogging on </title>
-    <link>http://localhost:1313/tags/blogging/</link>
-    <description>Recent content in Blogging on </description>
+    <title>Blogging on Book of the Day</title>
+    <link>https://niks182.github.io/tags/blogging/</link>
+    <description>Recent content in Blogging on Book of the Day</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Book 1</title>
-      <link>http://localhost:1313/post/my_book_1/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/my_book_1/</guid>
-      <description>&lt;p&gt;I recommend you this book!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Book 1</title>
-      <link>http://localhost:1313/posts/my_book_1/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my_book_1/</guid>
-      <description>&lt;p&gt;I recommend you this book!&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://niks182.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book 2</title>
-      <link>http://localhost:1313/post/my_book_2/</link>
+      <link>https://niks182.github.io/posts/my_book_2/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/my_book_2/</guid>
+      <guid>https://niks182.github.io/posts/my_book_2/</guid>
       <description>&lt;p&gt;I recommend you this book!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Book 2</title>
-      <link>http://localhost:1313/posts/my_book_2/</link>
+      <title>The Secret Keeper</title>
+      <link>https://niks182.github.io/post/my_book_2/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my_book_2/</guid>
-      <description>&lt;p&gt;I recommend you this book!&lt;/p&gt;</description>
+      <guid>https://niks182.github.io/post/my_book_2/</guid>
+      <description>&lt;p&gt;A gripping tale of family secrets, betrayal, and forgiveness that spans decades and keeps you guessing until the very end.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.leurabooks.com.au/assets/images/product/266317.jpg&#34; alt=&#34;The Secret Keeper Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kate Mortons &lt;em&gt;The Secret Keeper&lt;/em&gt; follows the story of Laurel, a successful actress, who witnesses a shocking crime as a teenager and unravels its long-buried mysteries decades later. Set across different time periods, the novel intricately weaves together the lives of Laurel, her family, and a stranger who hides a profound connection to them. Morton�s exquisite storytelling and richly detailed settings bring the tale to life, exploring themes of love, sacrifice, and the weight of hidden truths. The twists and turns of the narrative keep readers engaged, making it an unforgettable read. Perfect for fans of historical fiction and suspense, this book is as moving as it is thrilling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Wee Free Men</title>
+      <link>https://niks182.github.io/post/my_book_1/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://niks182.github.io/post/my_book_1/</guid>
+      <description>&lt;p&gt;A young witch-in-training teams up with chaotic, pint-sized warriors to save her brother and face the Fairy Queen in this witty and enchanting tale.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443764106i/34494.jpg&#34; alt=&#34;The Wee Free Men Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Terry Pratchetts &lt;em&gt;The Wee Free Men&lt;/em&gt; is a delightful and humorous fantasy novel that introduces readers to Tiffany Aching, a young witch-in-training with a sharp mind and a no-nonsense attitude. The story begins when Tiffany&amp;rsquo;s younger brother is kidnapped by the Queen of the Fairies, and she must rely on her wit and courage to rescue him. Alongside her are the Nac Mac Feegle, tiny blue-skinned pictsies who are as fearless as they are chaotic. Pratchett masterfully blends laugh-out-loud moments with&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Wee Free Men</title>
+      <link>https://niks182.github.io/posts/my_book_1/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://niks182.github.io/posts/my_book_1/</guid>
+      <description>&lt;p&gt;I recommend you this book!&lt;/p&gt;&#xA;&lt;p&gt;Terry Pratchett�s &lt;em&gt;The Wee Free Men&lt;/em&gt; is a delightful and humorous fantasy novel that introduces readers to Tiffany Aching, a young witch-in-training with a sharp mind and a no-nonsense attitude. The story begins when Tiffany&amp;rsquo;s younger brother is kidnapped by the Queen of the Fairies, and she must rely on her wit and courage to rescue him. Alongside her are the Nac Mac Feegle, tiny blue-skinned pictsies who are as fearless as they are chaotic. Pratchett masterfully blends laugh-out-loud moments with poignant themes of bravery, responsibility, and self-discovery. It&amp;rsquo;s an enchanting tale perfect for both young readers and adults who enjoy clever storytelling and richly crafted worlds.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
